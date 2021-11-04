@@ -1,5 +1,5 @@
-# SW-Engineer-Tech-Challenge
-Hello and welcome to our software challenge, we're glad to have you here 👋
+# QA-Engineer-Tech-Challenge
+Hello and welcome to our QA challenge, we're glad to have you here 👋
 
 Right away, **a note on how to work on and submit the challenge**: Please fork this repository using the Fork button in the upper right on the repository start site.
 You can work on the challenge in your fork then (more detailed information is provided in the challenge description linked above).
